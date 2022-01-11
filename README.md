@@ -1,2 +1,2 @@
 
-# Face Detection using OpenCV and Streamlit
+# Detecting workers in photos of construction exclusion zones
